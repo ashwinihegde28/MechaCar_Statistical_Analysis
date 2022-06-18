@@ -24,7 +24,7 @@ MechaCar_Statistical_Analysis using R and Statistics
 10. Determine the most appropriate statistical test for a given hypothesis and dataset.
 
 ### Deliverable 1
-#### Linear Regression
+### Linear Regression
 The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using my knowledge of R, designed a linear model that predicts the mpg of MechaCar prototypes by using several variables from the MechaCar_mpg.csv file. Then, write a short interpretation of the multiple linear regression results.<br>
 ![Capture 1](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture1.PNG) <br>
 
@@ -39,6 +39,8 @@ A summary of the linear regression can be displayed to determine the quality of 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not
   * The r-squared value of the linear model is 0.7149, which means that it will determine approximately 71% of all mpg predictions. MechaCar prototypes are predicted to achieve good mpg by different regression models.
  
- #### Summary Statistics on Suspension Coils
-
+ ### Deliverable 2
+ ### Summary Statistics on Suspension Coils
+![Capture 2.1](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture2.1.PNG) <br>
+![Capture 2.2](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture2.2.PNG) <br>
   
