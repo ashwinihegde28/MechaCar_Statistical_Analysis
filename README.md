@@ -49,16 +49,16 @@ The means of the lot numbers are similar to the population mean and the sample m
 - The variance for the total manufacturing lot is 62 < 100, which is within the expected design specifications of staying under 100 PSI.  However, when reviewing the data by Lot number, Lot 3 is a large contributing factor to the variance being high.  Lot 3 shows a variance of 170 > 100 which does not meet the design specifications.  Lot 1 and Lot 2 have significantly lower variance, 1 and 7 respectively. 
 
 ### Deliverable 3 - T-Tests on Suspension Coils
-1. The t test result on all the lots is as follows. Since the p-value of three lots is more than our significance value of 0.05, we FAIL to reject the NULL hypothesis for all manufacturing lots grouped together. <br>
+
 ![Capture 3.1](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture3.1.PNG) <br>
 
-2. Lot 1, The p-value for lot 1 is 1 above the significance level, assuming our significance level is 0.05 percent. As a result, the null hypothesis cannot be rejected, and therefore, they are equivalent. <br>
+1. Lot 1, The p-value for lot 1 is 1.568e-11 which is 0.00000000001568 , assuming our significance level is 0.05 percent. As a result, the null hypothesis can be rejected. <br>
 ![Capture 3.2](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture3.2.PNG) <br>
 
-3. Lot 2: The p-Value is less than 0.05, which is statistically significant. It indicates strong evidence against the null hypothesis. The mean falls within the 95% confidence interval. <br>
+2. Lot 2: The p-Value is less than 0.05, which is statistically significant. It indicates strong evidence against the null hypothesis. The mean falls within the 95% confidence interval. <br>
 ![Capture 3.3](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture3.3.PNG) <br>
 
-4. Lot 3: p-value greater than .05, which means the null hypothesis cannot be rejected. However, the mean falls within the 95% confidence interval.<br>
+3. Lot 3: p-value greater than .05, which means the null hypothesis cannot be rejected. However, the mean falls within the 95% confidence interval.<br>
 ![Capture 3.4](https://github.com/ashwinihegde28/MechaCar_Statistical_Analysis/blob/main/images/Capture3.4.PNG) <br>
   
 ### Study Design: MechaCar vs Competition
